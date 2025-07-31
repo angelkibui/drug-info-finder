@@ -157,3 +157,5 @@ docker run -d -p 80:80 -e API_KEY=your_key --name drug-app angelkibui/drug-info-
 | API rate limiting | Implemented client-side caching |
 | Cross-origin requests | Configured CORS headers |
 | Load balancer health checks | Added HAProxy check parameter |
+
+Youtube video: https://youtu.be/F9Jb-X-c4Fc?si=LiteHWAUbS5qewvI
